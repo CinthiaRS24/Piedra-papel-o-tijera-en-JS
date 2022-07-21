@@ -28,6 +28,18 @@ body {
 	background: rgba(0, 215, 0, 0.55);
 }
 
+#chooseOption {
+	margin-top: 50px;
+	font-weight: bold;
+}
+
 button {
 	cursor: pointer;
+	width: 150px;
+	height: 150px;
+	border-radius: 3%;
+}
+
+button:hover {
+	background-color: rgba(240, 0, 50, 0.75);
 }
